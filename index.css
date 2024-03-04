@@ -1,1 +1,10 @@
+body {
+    background-color: black;
+}
 
+#playArea {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: solid 1px white;
+}
